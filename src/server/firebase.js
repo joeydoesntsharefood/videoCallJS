@@ -1,8 +1,8 @@
 import firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "", // Add API Key
-  databaseURL:"" // Add databaseURL
+  apiKey: "AIzaSyASZ9GhGzJhUz69L7Qt-ry1Cno22oe9E6o",
+  databaseURL:"https://videocall-2469b-default-rtdb.firebaseio.com"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
